@@ -4,12 +4,12 @@
 
 > ## requirement
 
-https://docs.google.com/document/d/1sqquHm8vMkQjyUm0RbgKGAZoIWhYTa_mrMu1cfYTZ9Y/edit
+[Click Here]()
 
 
 > ## Demo Link 
 
-https://html.design/preview/?theme=famms
+[Click Here]()
 
 
 > ## Git Bash Codes
