@@ -13,7 +13,7 @@
 
 
 > ## Git Bash Codes
-read more https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp
+read more --> [geeksforgeeks.org](https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp)
 
 ```
 git init   <== ( project ekata git initialize karanne mehema )
