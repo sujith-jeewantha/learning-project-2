@@ -16,6 +16,17 @@
 
 [Click Here](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
+
+
+
+> ## other links
+
+[w3schools](https://www.w3schools.com/)
+
+
+[freecodecamp](https://www.freecodecamp.org/)
+
+
 > ## Git Bash Codes
 read more --> [geeksforgeeks.org](https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp)
 
@@ -38,12 +49,3 @@ git push -u origin test_branch   <== (branch eka github ekata push karanawa )
 
 git pull  <== ( pull request eka merge klama aluth changes tika merge
 ```
-
-
-
-> ## other links
-
-[w3schools](https://www.w3schools.com/)
-
-
-[freecodecamp](https://www.freecodecamp.org/)
