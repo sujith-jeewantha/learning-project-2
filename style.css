@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(68, 59, 54, 0.5),rgba(209, 150, 118, 0.5)), url(img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+    line-height: 50px;
+    position: relative;
+}
+
+.nav-links ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color:#fff;
+}
+
+.content h1{
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+.content p{
+    margin: 20px auto;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 0px;
+    background: transparent;
+    color: #fff;
+    position: relative;
+}
+span {
+    background: #ff7700;
+    height: 100%;
+    width: 100%;
+    border-radius: 35px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.name {
+    padding: 10px 110px;
+    font-weight:900;
+    font-size:1.1em;
+    color: white;
+    font-size: 24px;
+}
