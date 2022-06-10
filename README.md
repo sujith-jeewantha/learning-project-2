@@ -28,6 +28,7 @@
 
 [css-tricks](https://css-tricks.com/)
 
+[Our First Project](https://github.com/sujith-jeewantha/learning-e-commerce)
 
 > ## Git Bash Codes
 read more --> [geeksforgeeks.org](https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp)
