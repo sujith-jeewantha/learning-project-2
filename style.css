@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@
     background-size: cover;
     position: relative;
 }
-
+/*
 .nav-links{
     flex: 1;
     text-align: right;
@@ -31,7 +31,8 @@
     color: #fff;
     text-transform: uppercase;
 }
-
+*/
+/*
 .content{
     width: 100%;
     position: absolute;
@@ -74,11 +75,4 @@ span {
     bottom: 0;
     z-index: -1;
 }
-
-.name {
-    padding: 10px 110px;
-    font-weight:900;
-    font-size:1.1em;
-    color: white;
-    font-size: 24px;
-} */
+*/
