@@ -5,6 +5,8 @@
 
 
 .header {
+    min-height: 100vh;
+    width: 100%;
     background-image: url(img/bg-masthead.jpg);
 }
 
