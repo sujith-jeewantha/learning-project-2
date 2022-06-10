@@ -26,6 +26,8 @@
 
 [freecodecamp](https://www.freecodecamp.org/)
 
+[css-tricks](https://css-tricks.com/)
+
 
 > ## Git Bash Codes
 read more --> [geeksforgeeks.org](https://www.geeksforgeeks.org/working-on-git-bash/?ref=lbp)
