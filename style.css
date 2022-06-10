@@ -74,3 +74,11 @@ span {
     bottom: 0;
     z-index: -1;
 }
+
+.name {
+    padding: 10px 110px;
+    font-weight:900;
+    font-size:1.1em;
+    color: white;
+    font-size: 24px;
+}
